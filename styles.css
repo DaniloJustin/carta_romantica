@@ -36,8 +36,6 @@ border: none;
 padding: 10px 20px; 
 border-radius: 5px; cursor: pointer; 
 transition: background-color 0.3s ease-in-out;
-max-width: 300px; 
-margin: 10px;
 }
 
 button:hover { 
@@ -70,15 +68,3 @@ button:hover {
     }
 }
 
-@media (max-width: 600px) { 
-    .carta { padding: 10px; }
-
-    .foto-media { max-width: 100%; }
-
-    button { 
-        max-width: 100%;
-        width: 90%;
-        padding: 15px; 
-    }
-
-}
