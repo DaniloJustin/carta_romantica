@@ -76,6 +76,7 @@ button:hover {
     .foto-media { max-width: 100%; }
 
     button { 
+        max-width: 100%;
         width: 90%;
         padding: 15px; 
     }
