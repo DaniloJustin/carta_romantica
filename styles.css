@@ -69,3 +69,15 @@ button:hover {
 
     }
 }
+
+@media (max-width: 600px) { 
+    .carta { padding: 10px; }
+
+    .foto-media { max-width: 100%; }
+
+    button { 
+        width: 90%;
+        padding: 15px; 
+    }
+
+}
